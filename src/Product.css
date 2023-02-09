@@ -1,0 +1,22 @@
+.table {
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+}
+
+.tr > td {
+    border: 1px solid black;
+    width: 100px;
+}
+
+.image {
+    width: 100px;
+}
+
+.head {
+    border: 1px solid black;
+}
+
+.head__tr > th {
+    border: 1px solid black
+}
